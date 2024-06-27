@@ -1,0 +1,8 @@
+prefix=/home/devon/catkin_ws/devel
+
+Name: applebot
+Description: Description of applebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

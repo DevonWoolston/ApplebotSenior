@@ -1,0 +1,8 @@
+prefix=/home/devon/catkin_ws/install
+
+Name: auto_tests
+Description: Description of auto_tests
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
